@@ -1,0 +1,17 @@
+tiap Langkah diperdetail, melakukan apa saja.
+
+
+Latar belakang
+
+umum
+khusus
+gap
+hipotesis
+
+
+
+Pengembangan
+jumlah baris -> Preprocessing Data
+
+
+tiap Langkah diberi rujukan jurnal

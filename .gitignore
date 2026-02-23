@@ -1,0 +1,33 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv_karate/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset / Source Code Mahasiswa
+asli/
+generated_modified/
+kode_sumber/
+source_code/
+source_code2/
+
+# Hasil Analisis & Evaluasi
+*.xlsx
+*.csv
+*.json
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
