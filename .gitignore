@@ -14,10 +14,8 @@ env/
 
 # Dataset / Source Code Mahasiswa
 asli/
-generated_modified/
-kode_sumber/
-source_code/
-source_code2/
+dataset/
+dataset12/
 
 # Hasil Analisis & Evaluasi
 *.xlsx
