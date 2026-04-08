@@ -16,6 +16,7 @@ env/
 asli/
 dataset/
 dataset12/
+dataset6/
 
 # Hasil Analisis & Evaluasi
 *.xlsx
