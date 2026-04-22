@@ -1,0 +1,194 @@
+[
+  {
+    "file": "2341720003\\js13\\p02.py",
+    "error": "Cannot parse: 1:4: pip install tensorflow"
+  },
+  {
+    "file": "2341720005\\js15\\p02.py",
+    "error": "Cannot parse: 30:4:     <div style=\"text-align:center; padding:50px;\">"
+  },
+  {
+    "file": "2341720005\\kuis\\kuis.py",
+    "error": "Cannot parse: 56:15: 1.  **Fenomena pada Distribusi Umur (Age):**"
+  },
+  {
+    "file": "2341720007\\js04\\p01.py",
+    "error": "Cannot parse: 30:0:     print(f'k={idx}; SSE={sse_val}')"
+  },
+  {
+    "file": "2341720007\\js15\\p02.py",
+    "error": "Cannot parse: 30:4:     <div style=\"text-align:center; padding:50px;\">"
+  },
+  {
+    "file": "2341720009\\js09\\p01.py",
+    "error": "Cannot parse: 1:4: pip install mglearn"
+  },
+  {
+    "file": "2341720009\\js11\\tp.py",
+    "error": "Cannot parse: 1:4: pip install opencv-contrib-python"
+  },
+  {
+    "file": "2341720009\\js13\\p02.py",
+    "error": "Cannot parse: 1:4: pip install scikit-learn tensorflow numpy pandas matplotlib"
+  },
+  {
+    "file": "2341720032\\pbl\\splittest_2080.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720032\\pbl\\splittest_3070.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720032\\pbl\\splittest_4060.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720032\\pbl\\splittest_5050.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720032\\pbl\\splittest_6040.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720032\\pbl\\splittest_7030.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720032\\pbl\\splittest_9010.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720040\\js05\\p01.py",
+    "error": "Cannot parse: 2:7: KMeans adalah satu metode unsupervised learning pada machine learning. Metode ini menentukan jumlah cluster sesuai dengan jumlah"
+  },
+  {
+    "file": "2341720040\\js15\\p02.py",
+    "error": "Cannot parse: 30:4:     <div style=\"text-align:center; padding:50px;\">"
+  },
+  {
+    "file": "2341720062\\js01\\tp.py",
+    "error": "Cannot parse: 1:4: pip install pyprep"
+  },
+  {
+    "file": "2341720072\\js04\\kuis.py",
+    "error": "Cannot parse: 54:0:   1. Fenomema pada distribudi age:"
+  },
+  {
+    "file": "2341720072\\pbl\\splittest_2080.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720072\\pbl\\splittest_3070.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720072\\pbl\\splittest_4060.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720072\\pbl\\splittest_5050.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720072\\pbl\\splittest_6040.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720072\\pbl\\splittest_7030.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720072\\pbl\\splittest_9010.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720084\\js15\\tp.py",
+    "error": "Cannot parse: 1:6: https://github.com/Hamdankim/vegetable-cleanliness-api"
+  },
+  {
+    "file": "2341720093\\pbl\\splittest_2080.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720093\\pbl\\splittest_3070.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720093\\pbl\\splittest_4060.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720093\\pbl\\splittest_5050.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720093\\pbl\\splittest_6040.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720093\\pbl\\splittest_7030.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720093\\pbl\\splittest_9010.py",
+    "error": "Cannot parse: 78:10:     Label final (Dataset Improved):"
+  },
+  {
+    "file": "2341720096\\js15\\p02.py",
+    "error": "Cannot parse: 30:4:     <div style=\"text-align:center; padding:50px;\">"
+  },
+  {
+    "file": "2341720109\\js01\\JS1_2341720109_Gheriya_Rahima_Jauhar.py",
+    "error": "Cannot parse: 1:4: pip install setuptools"
+  },
+  {
+    "file": "2341720111\\js06\\p04.py",
+    "error": "Cannot parse: 1:4: pip install annoy faiss-cpu hnswlib"
+  },
+  {
+    "file": "2341720111\\js06\\p05.py",
+    "error": "Cannot parse: 1:4: pip install annoy faiss-cpu hnswlib"
+  },
+  {
+    "file": "2341720111\\js06\\p06.py",
+    "error": "Cannot parse: 1:4: pip install annoy faiss-cpu hnswlib"
+  },
+  {
+    "file": "2341720111\\js06\\tp.py",
+    "error": "Cannot parse: 1:4: pip install annoy faiss-cpu hnswlib"
+  },
+  {
+    "file": "2341720131\\js11\\p02.py",
+    "error": "Cannot parse: 30:4: pip install ipywidgets"
+  },
+  {
+    "file": "2341720143\\js04\\tp.py",
+    "error": "Cannot parse: 62:24: print(\"\\n\" + \"=\"*60)    print(f\"  Segment: {segment}\")"
+  },
+  {
+    "file": "2341720147\\pbl\\pbl.py",
+    "error": "Cannot parse: 9:4: pip install opencv-python-headless scikit-image scikit-learn joblib"
+  },
+  {
+    "file": "2341720153\\js04\\tp.py",
+    "error": "Cannot parse: 62:24: print(\"\\n\" + \"=\"*60)    print(f\"  Segment: {segment}\")"
+  },
+  {
+    "file": "2341720162\\js14\\tp.py",
+    "error": "Cannot parse: 1:4: pip install tensorflow"
+  },
+  {
+    "file": "2341720187\\js03\\p03.py",
+    "error": "Cannot parse: 16:7: Jumlah data asli: 891"
+  },
+  {
+    "file": "2341720187\\js14\\p01.py",
+    "error": "Cannot parse: 1:4: pip install tensorflow"
+  },
+  {
+    "file": "2341720251\\pbl\\kelompok.py",
+    "error": "Cannot parse: 9:4: pip install opencv-python-headless scikit-image scikit-learn joblib"
+  }
+]

@@ -15,18 +15,16 @@ env/
 # Dataset / Source Code Mahasiswa
 asli/
 dataset/
-dataset12/
-dataset6/
 
 # Hasil Analisis & Evaluasi
-*.xlsx
-*.csv
-*.json
+# *.xlsx
+# *.csv
+# *.json
 
 # OS & Editor
 .DS_Store
 Thumbs.db
 .vscode/
 
-# Logs
+# Logs/output
 *.log
