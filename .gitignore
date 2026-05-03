@@ -15,11 +15,13 @@ env/
 # Dataset / Source Code Mahasiswa
 asli/
 dataset/
+dataset_kode/
 
 # Hasil Analisis & Evaluasi
-# *.xlsx
-# *.csv
-# *.json
+*.xlsx
+*.csv
+*.json
+*.pkl
 
 # OS & Editor
 .DS_Store
