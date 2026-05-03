@@ -17,6 +17,15 @@ asli/
 dataset/
 dataset_kode/
 
+# output
+data_output/
+Output/
+
+# file backup pribadi
+backup/
+backup_sementara/
+old/
+
 # Hasil Analisis & Evaluasi
 *.xlsx
 *.csv
