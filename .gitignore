@@ -20,6 +20,7 @@ dataset_kode/
 # output
 data_output/
 Output/
+log/
 
 # file backup pribadi
 backup/
@@ -36,6 +37,3 @@ old/
 .DS_Store
 Thumbs.db
 .vscode/
-
-# Logs/output
-*.log
