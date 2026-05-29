@@ -8,24 +8,28 @@ venv_karate/
 venv/
 env/
 .venv/
+.env
 
 # Jupyter
 .ipynb_checkpoints/
 
 # Dataset / Source Code Mahasiswa
 asli/
-dataset/
-dataset_kode/
+dataset*/
 
 # output
 data_output/
-Output/
+data_output(2)/
+Output*/
 log/
 
-# file backup pribadi
+# file backup pribadi /file lain
 backup/
 backup_sementara/
 old/
+codeReferences/
+jplag/
+moss/
 
 # Hasil Analisis & Evaluasi
 *.xlsx
