@@ -28,7 +28,9 @@ backup/
 backup_sementara/
 old/
 codeReferences/
-jplag/
+# jplag/
+jplag/input*/
+jplag/output*/
 moss/
 coba*/
 
@@ -42,3 +44,6 @@ coba*/
 .DS_Store
 Thumbs.db
 .vscode/
+
+jplag/results.zip
+jplag/jplag-5.1.0.jar
